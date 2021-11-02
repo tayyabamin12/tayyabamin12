@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tayyab Amin
-- 👀 I’m interested in programming and learning new skills
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in native Android development and learning new skills
+- 🌱 I’m currently learning Flutter also
 - 💞️ I’m looking to collaborate on Github
 - 📫 You can reach me at tayyab.riu@gmail.com
 
